@@ -2,6 +2,8 @@
 
 ## SDLC Interview Question:)
 
+<img src="https://github.com/rajeevranjancom/SDLC/blob/main/mastering-the-7-stages-of-the-system-development-life-cycle-1.jpg" style="max-width: 100%;" alt="Welcome images" />
+
 <img src="https://github.com/rajeevranjancom/SDLC/blob/main/SDLC2/SDLC-01.jpg" style="max-width: 100%;" alt="Welcome images" />
 
 <img src="https://github.com/rajeevranjancom/SDLC/blob/main/SDLC2/SDLC-02.jpg" style="max-width: 100%;" alt="Welcome images" />
@@ -57,3 +59,7 @@
 <img src="https://github.com/rajeevranjancom/SDLC/blob/main/SDLC2/SDLC-27.jpg" style="max-width: 100%;" alt="Welcome images" />
 
 <img src="https://github.com/rajeevranjancom/SDLC/blob/main/SDLC2/SDLC-28.jpg" style="max-width: 100%;" alt="Welcome images" />
+
+
+
+
