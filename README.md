@@ -1,4 +1,4 @@
-## SDLC Interview Question:) 🦖
+## SDLC Interview Question :) 🦖
 
 <img src="https://github.com/rajeevranjancom/SDLC/blob/main/mastering-the-7-stages-of-the-system-development-life-cycle-1.jpg" style="max-width: 100%;" alt="Welcome images" />
 
