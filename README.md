@@ -265,11 +265,9 @@ In other words, an agile organization can successfully adapt the SDLC framework 
 
 This is why any software organization, using any development methodology, can benefit from using some form of the software development lifecycle model.
 
-<img src="https://github.com/rajeevranjancom/SDLC/blob/main/Book.jpg" style="max-width: 100%;" alt="Welcome images" />
+<img src="https://github.com/rajeevranjancom/SDLC/blob/main/Book.jpg" style="max-width: 100%;" alt="For Book CLICK ME" />
 
 Buy this Book from Amazon.in :-
 
 ## Book: The DevOps Handbook
 ## Course: Software Maintenance
-
-<img src="https://www.amazon.in/Complete-Software-Engineering-Basics-Advanced/dp/B08NVJLGJ1" style="max-width: 100%;" alt="For Book CLICK ME" />
