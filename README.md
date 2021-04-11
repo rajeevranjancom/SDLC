@@ -1,5 +1,5 @@
 ## SDLC Interview Question :) 🦖
-
+## The Phases of the Software Development Lifecycle🚱
 <img src="https://github.com/rajeevranjancom/SDLC/blob/main/mastering-the-7-stages-of-the-system-development-life-cycle-1.jpg" style="max-width: 100%;" alt="Welcome images" />
 
 The software development lifecycle (SDLC) is a framework that development teams use to produce high-quality software in a systematic and cost-effective way. The SDLC methodology is used by both large and small software organizations.
