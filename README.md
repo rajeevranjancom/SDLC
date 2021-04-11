@@ -10,6 +10,8 @@ Developers often think that only one of the seven stages of the system developme
 
 Below, we discuss each stage and where it fits into the bigger picture. We also provide examples of expected output, describe team members needed, and share resources for individual learning.
 
+<img src="https://github.com/rajeevranjancom/SDLC/blob/main/2115.jpeg" style="max-width: 100%;" alt="Welcome images" />
+
 ## 1. Planning Stage 🦖
 In any software development project, planning comes first. Before getting started, it is important to make sure the project has enough people and financial backing. You can have the best idea in the world, but if you don’t have people or money, moving forward will be a poor business decision.
 
@@ -20,6 +22,8 @@ Here are resources for getting better at planning:
 Book: Software Estimation Without Guessing
 
 Course: Project Planning & Management
+
+<img src="https://github.com/rajeevranjancom/SDLC/blob/main/2115.png" style="max-width: 100%;" alt="Welcome images" />
 
 ## 2. Feasibility or Requirements Analysis Stage 🦖
 In feasibility analysis, your team ensures that the project requirements help the end-user of the system.
