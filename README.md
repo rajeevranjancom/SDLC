@@ -4,6 +4,7 @@
 
 <img src="https://github.com/rajeevranjancom/SDLC/blob/main/mastering-the-7-stages-of-the-system-development-life-cycle-1.jpg" style="max-width: 100%;" alt="Welcome images" />
 
+The software development lifecycle (SDLC) is a framework that development teams use to produce high-quality software in a systematic and cost-effective way. The SDLC methodology is used by both large and small software organizations.
 
 Developers often think that only one of the seven stages of the system development life cycle applies to them. But, to work at their best, everyone in a software development team should have a good working knowledge of all stages of the SDLC.
 
@@ -166,3 +167,95 @@ Here are some resources for getting better at operations and maintenance:
 <img src="https://github.com/rajeevranjancom/SDLC/blob/main/SDLC2/SDLC-27.jpg" style="max-width: 100%;" alt="Welcome images" />
 
 <img src="https://github.com/rajeevranjancom/SDLC/blob/main/SDLC2/SDLC-28.jpg" style="max-width: 100%;" alt="Welcome images" />
+
+## What is the Software Development Lifecycle?
+
+The software development lifecycle (SDLC) is a framework that development teams use to produce high-quality software in a systematic and cost-effective way. The SDLC methodology is used by both large and small software organizations. These teams follow development models ranging from agile to lean to waterfall and others.
+
+The software development lifecycle gives organizations a methodical, step-by-step approach to developing successful software. From gathering the initial requirements for a new product, through maintaining a mature product on the market, we’ll teach you how to employ SDLC.
+
+# Origins of the Software Development Lifecycle:-
+
+SDLC actually began as the “systems development lifecycle” in the 1960s. As Geoffrey Elliott explains in his book, Global Business Information Technology, large corporations developed the model to help manage complex business systems that required a lot of data processing and analysis.
+
+Over time, variations of the framework have been adopted for the development of hardware and software technology products and other complex projects.
+
+
+# The Phases of the Software Development Lifecycle:- 
+
+Several versions of the software development lifecycle have evolved. Guru99, for example, uses a seven-phase SDLC framework that separates requirements collection and a feasibility study into two separate phases. Other organizations, such as Software Testing Help, combine these two steps into a single phase 1: “requirements gathering and analysis.”
+
+We’ve reviewed many variations of software development lifecycle models. The following six-phase framework seems to be the most straightforward.
+
+## Phase 1: Plan
+The first stage of new software development will be to gather all relevant information from stakeholders and analyze this information to determine what will be feasible.
+
+This includes compiling requirements, studying user personas, and agreeing on the product’s purpose. During this phase, the team will also discuss the opportunities and risks of pursuing the project. This is why Software Testing Help refers to this phase as both requirements gathering and analysis.
+
+## Phase 2: Design
+After the team has agreed on a broad set of requirements and goals for the product, the next step will be to create a design specification. This should answer the question, “How will we build this?”
+
+For a product team, this phase would include determining the priority order of the proposed work, building a product roadmap, and obtaining stakeholder agreement on it. This will help everyone on both the development and product teams get a clearer picture of what they are aiming for.
+
+## Phase 3: Implement (or Code)
+This is the stage where the engineering team actually codes the product. At this stage, the development team translates the high-level overview communicated in the roadmap into a tactical set of assignments, due dates, and day-to-day work schedules.
+
+## Phase 4: Test
+After the team has completed a version of the software, they will release it to a testing environment. Here, the QA team and the developers will test all areas of the application to spot any defects, bugs, or other problems.
+
+## Phase 5: Deploy
+At this stage, the team is confident it has fixed all defects and that the software has been built to the agreed-upon goals and specifications.
+
+Now it’s time to release the software to the production environment. This means the product will be generally available for customers to buy and use.
+
+## Phase 6: Maintain
+With the software now live and being used by customers, the development team’s focus will shift to maintaining it.
+
+The developers will need to be ready to address requests for enhancements, bug fixes, and new features. These requests will come from many sources—sales, executives, customers—but the product management team will determine which of these initiatives make it onto the product roadmap for developers to work on.
+
+## What are the Benefits of the Software Development Lifecycle?
+
+Software development teams find many advantages from using the SDLC model, including:
+
+#Lowering the cost of software development.
+
+Improving the quality of the software that the organization delivers.
+Shortening development timelines by preventing after-the-fact fixes.
+Helping developers better understand what they are building and why.
+Ensuring all stakeholders have a chance to give their input in the early stages of development.
+Giving everyone on the cross-functional team an understanding of the costs and resources needed to complete the project.
+Because the software development lifecycle model requires the development team to complete each phase before moving on to the next, it helps ensure problems don’t become compounded during the process. Using this approach helps teams identify and deal with problems immediately. This minimizes their impact on both the cost of the project and the quality of the final software product that the developers deliver to the market.
+
+However, the software development lifecycle model also has potential downsides. These drawbacks can particularly affect agile and lean development organizations, but their risks are relevant to any software company using the SDLC framework.
+
+## What are the Drawbacks of the Software Development Lifecycle?
+
+# It reduces communication and collaboration across departments.
+
+Because SDLC is a linear model, and the organization does not advance to the next step until the current step is complete, this approach can have the effect of creating information silos.
+
+The engineering team is the only team focused on the project, for example, during the implementation phase. That means the QA or UX team could miss out on important learning during this phase because they are not all part of a cross-functional team in constant communication throughout the development process.
+
+# It is process-heavy and does not allow much flexibility.
+
+Another complaint about the SDLC model is that it can make an organization overly dependent on the process. A key principle in agile development is “people over processes.” This empowers an agile team to make quick adjustments to its plan when needed
+
+With the SDLC framework, this is more difficult because the team agrees early on to follow a specific development plan.
+
+# It creates a single point of failure in the early stages.
+
+The team sets the entire product-development plan according to the initial requirements-gathering and analysis. However, this first phase can lead to a failed product if the team doesn’t properly assess the market’s needs.
+
+With an agile approach, by contrast, the organization continuously reviews its product’s progress and seeks regular feedback from users. As a result, the team is less likely to build an entire product or significant new functionality without knowing there is a market for it.
+
+From the drawbacks listed above, it might seem that agile development teams would find the SDLC framework ineffective.
+
+But the SDLC framework can and often is incorporated into the agile development methodology. Agile organizations break the proposed product into small development cycles called sprints. In each sprint, they will work through all of these phases quickly.
+
+# How Does the Software Development Lifecycle Work with Agile Sprints?
+
+The typical agile sprint is only two weeks or a month. The team will start each sprint with a sprint planning session. At this time, the cross-functional team reviews the backlog. Then, they determine a few strategically advantageous projects to work on and assign tasks. They will then focus only on those projects and test their work at the end of the sprint. Finally, they will move on to the next sprint. Breaking up the process this way allows agile organizations to quickly and frequently release new functionality to the market. This frees them from having to wait to build an entire product before releasing anything.
+
+In other words, an agile organization can successfully adapt the SDLC framework to its development model.
+
+This is why any software organization, using any development methodology, can benefit from using some form of the software development lifecycle model.
